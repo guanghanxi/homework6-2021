@@ -88,6 +88,7 @@ body{
     background: #fff;
     border-radius: 7px;
     padding: 0 0 25px 0;
+    flex-grow: 0;
     flex-basis: 450px;
   }
 
